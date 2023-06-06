@@ -1,0 +1,219 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="5067" name="BR: AgroBrasil TV" group="Brasil" tvg-country="br", AgroBrasil TV
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14676.ts
+#EXTINF:0 type="stream" channelId="1573" name="BR: AXN" group="Brasil" tvg-country="br", AXN
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14301.ts
+#EXTINF:0 type="stream" channelId="321" name="BR: BOOMERANG" group="Brasil" tvg-country="br", BOOMERANG
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14682.ts
+#EXTINF:0 type="stream" channelId="40" name="BR: Cartoon Network" group="Brasil" tvg-country="br", Cartoon Network
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14313.ts
+#EXTINF:0 type="stream" channelId="2841" name="BR: DISCOVERY CIVILIZATION HD" group="Brasil" tvg-country="br", DISCOVERY CIVILIZATION HD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14700.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: Discovery H&H" group="Brasil" tvg-country="br", Discovery H&H
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14329.ts
+#EXTINF:0 type="stream" channelId="1418" name="BR: HGTV HD" group="Brasil" tvg-country="br", HGTV HD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14736.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: ID INVESTIGACAO" group="Brasil" tvg-country="br", ID INVESTIGACAO
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14391.ts
+#EXTINF:0 type="stream" channelId="383" name="BR: Space" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/space.png" tvg-country="br", Space
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14446.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: Star Channel" group="Brasil" tvg-country="br", Star Channel
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14450.ts
+#EXTINF:0 type="stream" channelId="2625" name="BR: Studio Universal" group="Brasil" tvg-country="br", Studio Universal
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14451.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: TV Ra Tim Bum HD" group="Brasil" tvg-country="br", TV Ra Tim Bum HD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14786.ts
+#EXTINF:0 type="stream" channelId="1208" name="BR: A&E" group="Brasil" tvg-country="br", A&E
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14944.ts
+#EXTINF:0 type="stream" channelId="2501" name="BR: AMC" group="Brasil" tvg-country="br", AMC
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14945.ts
+#EXTINF:0 type="stream" channelId="50" name="BR: ANIMAL PLANET" group="Brasil" tvg-country="br", ANIMAL PLANET
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14946.ts
+#EXTINF:0 type="stream" channelId="2572" name="BR: ARTE 1" group="Brasil" tvg-country="br", ARTE 1
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14947.ts
+#EXTINF:0 type="stream" channelId="473" name="BR: BABY TV" group="Brasil" tvg-country="br", BABY TV
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14948.ts
+#EXTINF:0 type="stream" channelId="2573" name="BR: BAND NEWS" group="Brasil" tvg-country="br", BAND NEWS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14949.ts
+#EXTINF:0 type="stream" channelId="2574" name="BR: BandSports" group="Brasil" tvg-country="br", BandSports
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14950.ts
+#EXTINF:0 type="stream" channelId="2718" name="BR: BIS" group="Brasil" tvg-country="br", BIS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14951.ts
+#EXTINF:0 type="stream" channelId="188" name="BR: Sony Channel" group="Brasil" tvg-country="br", Sony Channel
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14952.ts
+#EXTINF:0 type="stream" channelId="2576" name="BR: CANAL BRASIL" group="Brasil" tvg-country="br", CANAL BRASIL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14953.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: CANCAO NOVA" group="Brasil" tvg-country="br", CANCAO NOVA
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14954.ts
+#EXTINF:0 type="stream" channelId="1326" name="BR: CINEMAX" group="Brasil" tvg-country="br", CINEMAX
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14955.ts
+#EXTINF:0 type="stream" channelId="4647" name="BR: CNN BRASIL" group="Brasil" tvg-country="br", CNN BRASIL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14956.ts
+#EXTINF:0 type="stream" channelId="2595" name="BR: COMBATE HD" group="Brasil" tvg-country="br", COMBATE HD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14957.ts
+#EXTINF:0 type="stream" channelId="2595" name="BR: COMBATE" group="Brasil" tvg-country="br", COMBATE
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14958.ts
+#EXTINF:0 type="stream" channelId="1190" name="BR: COMEDY CENTRAL" group="Brasil" tvg-country="br", COMEDY CENTRAL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14959.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: DAZN 1 HD" group="Brasil" tvg-country="br", DAZN 1 HD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14960.ts
+#EXTINF:0 type="stream" channelId="2577" name="BR: Curta" group="Brasil" tvg-country="br", Curta
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14961.ts
+#EXTINF:0 type="stream" channelId="57" name="BR: DISCOVERY CHANNEL" group="Brasil" tvg-country="br", DISCOVERY CHANNEL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14962.ts
+#EXTINF:0 type="stream" channelId="2505" name="BR: DISCOVERY KIDS" group="Brasil" tvg-country="br", DISCOVERY KIDS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14963.ts
+#EXTINF:0 type="stream" channelId="58" name="BR: DISCOVERY SCIENCE" group="Brasil" tvg-country="br", DISCOVERY SCIENCE
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14964.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: DISCOVERY THEATHER" group="Brasil" tvg-country="br", DISCOVERY THEATHER
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14965.ts
+#EXTINF:0 type="stream" channelId="2840" name="BR: DISCOVERY TURBO" group="Brasil" tvg-country="br", DISCOVERY TURBO
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14966.ts
+#EXTINF:0 type="stream" channelId="2839" name="BR: DISCOVERY WORLD" group="Brasil" tvg-country="br", DISCOVERY WORLD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14967.ts
+#EXTINF:0 type="stream" channelId="19" name="BR: DISNEY CHANNEL" group="Brasil" tvg-country="br", DISNEY CHANNEL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14968.ts
+#EXTINF:0 type="stream" channelId="1197" name="BR: DISNEY JUNIOR" group="Brasil" tvg-country="br", DISNEY JUNIOR
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14969.ts
+#EXTINF:0 type="stream" channelId="1188" name="BR: E!" group="Brasil" tvg-country="br", E!
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14970.ts
+#EXTINF:0 type="stream" channelId="344" name="BR: ESPN 2" group="Brasil" logo="http://logos.iptv.wtf/deportes/espn2.png" tvg-country="br", ESPN 2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14971.ts
+#EXTINF:0 type="stream" channelId="4657" name="BR: ESPN EXTRA" group="Brasil" tvg-country="br", ESPN EXTRA
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14972.ts
+#EXTINF:0 type="stream" channelId="2540" name="BR: ESPN" group="Brasil" logo="http://logos.iptv.wtf/deportes/espn.png" tvg-country="br", ESPN
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14973.ts
+#EXTINF:0 type="stream" channelId="2633" name="BR: FISH TV" group="Brasil" tvg-country="br", FISH TV
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14974.ts
+#EXTINF:0 type="stream" channelId="1244" name="BR: FOOD NETWORK" group="Brasil" tvg-country="br", FOOD NETWORK
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14975.ts
+#EXTINF:0 type="stream" channelId="2607" name="BR: FOX PREMIUM 2" group="Brasil" tvg-country="br", FOX PREMIUM 2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14976.ts
+#EXTINF:0 type="stream" channelId="170" name="BR: FOX SPORTS 2" group="Brasil" tvg-country="br", FOX SPORTS 2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14977.ts
+#EXTINF:0 type="stream" channelId="1328" name="BR: FOX SPORTS" group="Brasil" tvg-country="br", FOX SPORTS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14978.ts
+#EXTINF:0 type="stream" channelId="1303" name="BR: FX" group="Brasil" tvg-country="br", FX
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14979.ts
+#EXTINF:0 type="stream" channelId="2432" name="BR: GLOBO" group="Brasil" tvg-country="br", GLOBO
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14980.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: GLOBO MINAS" group="Brasil" tvg-country="br", GLOBO MINAS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14981.ts
+#EXTINF:0 type="stream" channelId="2561" name="BR: GLOBO news" group="Brasil" tvg-country="br", GLOBO news
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14982.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: GLOBO NOW" group="Brasil" tvg-country="br", GLOBO NOW
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14983.ts
+#EXTINF:0 type="stream" channelId="2581" name="BR: GLOOB" group="Brasil" tvg-country="br", GLOOB
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14984.ts
+#EXTINF:0 type="stream" channelId="2582" name="BR: GNT" group="Brasil" tvg-country="br", GNT
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14985.ts
+#EXTINF:0 type="stream" channelId="1201" name="BR: H2" group="Brasil" tvg-country="br", H2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14986.ts
+#EXTINF:0 type="stream" channelId="935" name="BR: HBO 2" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbo2.png" tvg-country="br", HBO 2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14987.ts
+#EXTINF:0 type="stream" channelId="2584" name="BR: HBO FAMILY" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbofamily.pn..." tvg-country="br", HBO FAMILY
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14988.ts
+#EXTINF:0 type="stream" channelId="1330" name="BR: HBO" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbo.png" tvg-country="br", HBO
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14989.ts
+#EXTINF:0 type="stream" channelId="2725" name="BR: HBO MUNDI" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png" tvg-country="br", HBO MUNDI
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14990.ts
+#EXTINF:0 type="stream" channelId="2585" name="BR: HBO PLUS" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hboplus.png" tvg-country="br", HBO PLUS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14991.ts
+#EXTINF:0 type="stream" channelId="361" name="BR: HBO POP" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbopop.png" tvg-country="br", HBO POP
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14992.ts
+#EXTINF:0 type="stream" channelId="2583" name="BR: HBO SIGNATURE" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png" tvg-country="br", HBO SIGNATURE
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14993.ts
+#EXTINF:0 type="stream" channelId="2587" name="BR: HBO XTREME" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.pn..." tvg-country="br", HBO XTREME
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14994.ts
+#EXTINF:0 type="stream" channelId="1455" name="BR: HISTORY CHANNEL" group="Brasil" tvg-country="br", HISTORY CHANNEL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14995.ts
+#EXTINF:0 type="stream" channelId="1200" name="BR: LIFETIME" group="Brasil" tvg-country="br", LIFETIME
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14996.ts
+#EXTINF:0 type="stream" channelId="2580" name="BR: MAIS GLOBOSAT" group="Brasil" tvg-country="br", MAIS GLOBOSAT
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14997.ts
+#EXTINF:0 type="stream" channelId="2588" name="BR: MEGAPIX" group="Brasil" tvg-country="br", MEGAPIX
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14998.ts
+#EXTINF:0 type="stream" channelId="2590" name="BR: MULTISHOW" group="Brasil" tvg-country="br", MULTISHOW
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14999.ts
+#EXTINF:0 type="stream" channelId="164" name="BR: NATGEO WILD" group="Brasil" tvg-country="br", NATGEO WILD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15000.ts
+#EXTINF:0 type="stream" channelId="56" name="BR: NatGeo" group="Brasil" tvg-country="br", NatGeo
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15001.ts
+#EXTINF:0 type="stream" channelId="322" name="BR: NICK JR" group="Brasil" tvg-country="br", NICK JR
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15002.ts
+#EXTINF:0 type="stream" channelId="41" name="BR: NICKELODEON" group="Brasil" tvg-country="br", NICKELODEON
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15003.ts
+#EXTINF:0 type="stream" channelId="2594" name="BR: OFF" group="Brasil" tvg-country="br", OFF
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15004.ts
+#EXTINF:0 type="stream" channelId="1719" name="BR: PARAMOUNT" group="Brasil" tvg-country="br", PARAMOUNT
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15005.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 2" group="Brasil" tvg-country="br", PREMIERE 2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15006.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 3" group="Brasil" tvg-country="br", PREMIERE 3
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15007.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 4" group="Brasil" tvg-country="br", PREMIERE 4
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15008.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 5" group="Brasil" tvg-country="br", PREMIERE 5
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15009.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 6" group="Brasil" tvg-country="br", PREMIERE 6
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15010.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 7" group="Brasil" tvg-country="br", PREMIERE 7
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15011.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE CLUBES" group="Brasil" tvg-country="br", PREMIERE CLUBES
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15012.ts
+#EXTINF:0 type="stream" channelId="1031" name="BR: RECORD" group="Brasil" tvg-country="br", RECORD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15013.ts
+#EXTINF:0 type="stream" channelId="2456" name="BR: RECORD NEWS" group="Brasil" tvg-country="br", RECORD NEWS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15014.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: REDE TV" group="Brasil" tvg-country="br", REDE TV
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15015.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: SBT RJ HD" group="Brasil" tvg-country="br", SBT RJ HD
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15016.ts
+#EXTINF:0 type="stream" channelId="2433" name="BR: SBT" group="Brasil" tvg-country="br", SBT
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15017.ts
+#EXTINF:0 type="stream" channelId="2599" name="BR: SporTV" group="Brasil" tvg-country="br", SporTV
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15018.ts
+#EXTINF:0 type="stream" channelId="2601" name="BR: SporTV 3" group="Brasil" tvg-country="br", SporTV 3
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15019.ts
+#EXTINF:0 type="stream" channelId="2600" name="BR: SporTV 2" group="Brasil" tvg-country="br", SporTV 2
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15020.ts
+#EXTINF:0 type="stream" channelId="-1" name="BR: STAR LIFE" group="Brasil" tvg-country="br", STAR LIFE
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15021.ts
+#EXTINF:0 type="stream" channelId="73" name="BR: SYFY" group="Brasil" tvg-country="br", SYFY
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15022.ts
+#EXTINF:0 type="stream" channelId="3228" name="BR: TBS" group="Brasil" tvg-country="br", TBS
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15023.ts
+#EXTINF:0 type="stream" channelId="895" name="BR: TCM" group="Brasil" tvg-country="br", TCM
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15024.ts
+#EXTINF:0 type="stream" channelId="2603" name="BR: TELECINE ACTION" group="Brasil" tvg-country="br", TELECINE ACTION
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15025.ts
+#EXTINF:0 type="stream" channelId="2605" name="BR: TELECINE CULT" group="Brasil" tvg-country="br", TELECINE CULT
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15026.ts
+#EXTINF:0 type="stream" channelId="2606" name="BR: TELECINE FUN" group="Brasil" tvg-country="br", TELECINE FUN
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15027.ts
+#EXTINF:0 type="stream" channelId="2608" name="BR: TELECINE PIPOCA" group="Brasil" tvg-country="br", TELECINE PIPOCA
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15028.ts
+#EXTINF:0 type="stream" channelId="2610" name="BR: TELECINE PREMIUM" group="Brasil" tvg-country="br", TELECINE PREMIUM
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15029.ts
+#EXTINF:0 type="stream" channelId="2611" name="BR: TELECINE TOUCH" group="Brasil" tvg-country="br", TELECINE TOUCH
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15030.ts
+#EXTINF:0 type="stream" channelId="67" name="BR: TLC" group="Brasil" tvg-country="br", TLC
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15031.ts
+#EXTINF:0 type="stream" channelId="1052" name="BR: TNT" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/tnt.png" tvg-country="br", TNT
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15032.ts
+#EXTINF:0 type="stream" channelId="2686" name="BR: TNT SERIES" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png" tvg-country="br", TNT SERIES
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15033.ts
+#EXTINF:0 type="stream" channelId="2639" name="BR: TOONCAST" group="Brasil" tvg-country="br", TOONCAST
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15034.ts
+#EXTINF:0 type="stream" channelId="2578" name="BR: ESPN Brasil" group="Brasil" logo="http://logos.iptv.wtf/deportes/espn.png" tvg-country="br", ESPN Brasil
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15035.ts
+#EXTINF:0 type="stream" channelId="187" name="BR: UNIVERSAL" group="Brasil" tvg-country="br", UNIVERSAL
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15036.ts
+#EXTINF:0 type="stream" channelId="151" name="BR: VH1" group="Brasil" tvg-country="br", VH1
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15037.ts
+#EXTINF:0 type="stream" channelId="984" name="BR: VIVA" group="Brasil" tvg-country="br", VIVA
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15038.ts
+#EXTINF:0 type="stream" channelId="2557" name="BR: WARNER" group="Brasil" tvg-country="br", WARNER
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15039.ts
+#EXTINF:0 type="stream" channelId="2908" name="BR: ZOOMOO" group="Brasil" tvg-country="br", ZOOMOO
+http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15040.ts
