@@ -1,219 +1,229 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="5067" name="BR: AgroBrasil TV" group="Brasil" tvg-country="br", AgroBrasil TV
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14676.ts
-#EXTINF:0 type="stream" channelId="1573" name="BR: AXN" group="Brasil" tvg-country="br", AXN
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14301.ts
-#EXTINF:0 type="stream" channelId="321" name="BR: BOOMERANG" group="Brasil" tvg-country="br", BOOMERANG
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14682.ts
-#EXTINF:0 type="stream" channelId="40" name="BR: Cartoon Network" group="Brasil" tvg-country="br", Cartoon Network
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14313.ts
-#EXTINF:0 type="stream" channelId="2841" name="BR: DISCOVERY CIVILIZATION HD" group="Brasil" tvg-country="br", DISCOVERY CIVILIZATION HD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14700.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: Discovery H&H" group="Brasil" tvg-country="br", Discovery H&H
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14329.ts
-#EXTINF:0 type="stream" channelId="1418" name="BR: HGTV HD" group="Brasil" tvg-country="br", HGTV HD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14736.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: ID INVESTIGACAO" group="Brasil" tvg-country="br", ID INVESTIGACAO
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14391.ts
-#EXTINF:0 type="stream" channelId="383" name="BR: Space" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/space.png" tvg-country="br", Space
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14446.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: Star Channel" group="Brasil" tvg-country="br", Star Channel
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14450.ts
-#EXTINF:0 type="stream" channelId="2625" name="BR: Studio Universal" group="Brasil" tvg-country="br", Studio Universal
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14451.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: TV Ra Tim Bum HD" group="Brasil" tvg-country="br", TV Ra Tim Bum HD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14786.ts
-#EXTINF:0 type="stream" channelId="1208" name="BR: A&E" group="Brasil" tvg-country="br", A&E
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14944.ts
-#EXTINF:0 type="stream" channelId="2501" name="BR: AMC" group="Brasil" tvg-country="br", AMC
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14945.ts
-#EXTINF:0 type="stream" channelId="50" name="BR: ANIMAL PLANET" group="Brasil" tvg-country="br", ANIMAL PLANET
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14946.ts
-#EXTINF:0 type="stream" channelId="2572" name="BR: ARTE 1" group="Brasil" tvg-country="br", ARTE 1
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14947.ts
-#EXTINF:0 type="stream" channelId="473" name="BR: BABY TV" group="Brasil" tvg-country="br", BABY TV
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14948.ts
-#EXTINF:0 type="stream" channelId="2573" name="BR: BAND NEWS" group="Brasil" tvg-country="br", BAND NEWS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14949.ts
-#EXTINF:0 type="stream" channelId="2574" name="BR: BandSports" group="Brasil" tvg-country="br", BandSports
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14950.ts
-#EXTINF:0 type="stream" channelId="2718" name="BR: BIS" group="Brasil" tvg-country="br", BIS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14951.ts
-#EXTINF:0 type="stream" channelId="188" name="BR: Sony Channel" group="Brasil" tvg-country="br", Sony Channel
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14952.ts
-#EXTINF:0 type="stream" channelId="2576" name="BR: CANAL BRASIL" group="Brasil" tvg-country="br", CANAL BRASIL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14953.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: CANCAO NOVA" group="Brasil" tvg-country="br", CANCAO NOVA
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14954.ts
-#EXTINF:0 type="stream" channelId="1326" name="BR: CINEMAX" group="Brasil" tvg-country="br", CINEMAX
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14955.ts
-#EXTINF:0 type="stream" channelId="4647" name="BR: CNN BRASIL" group="Brasil" tvg-country="br", CNN BRASIL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14956.ts
-#EXTINF:0 type="stream" channelId="2595" name="BR: COMBATE HD" group="Brasil" tvg-country="br", COMBATE HD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14957.ts
-#EXTINF:0 type="stream" channelId="2595" name="BR: COMBATE" group="Brasil" tvg-country="br", COMBATE
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14958.ts
-#EXTINF:0 type="stream" channelId="1190" name="BR: COMEDY CENTRAL" group="Brasil" tvg-country="br", COMEDY CENTRAL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14959.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: DAZN 1 HD" group="Brasil" tvg-country="br", DAZN 1 HD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14960.ts
-#EXTINF:0 type="stream" channelId="2577" name="BR: Curta" group="Brasil" tvg-country="br", Curta
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14961.ts
-#EXTINF:0 type="stream" channelId="57" name="BR: DISCOVERY CHANNEL" group="Brasil" tvg-country="br", DISCOVERY CHANNEL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14962.ts
-#EXTINF:0 type="stream" channelId="2505" name="BR: DISCOVERY KIDS" group="Brasil" tvg-country="br", DISCOVERY KIDS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14963.ts
-#EXTINF:0 type="stream" channelId="58" name="BR: DISCOVERY SCIENCE" group="Brasil" tvg-country="br", DISCOVERY SCIENCE
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14964.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: DISCOVERY THEATHER" group="Brasil" tvg-country="br", DISCOVERY THEATHER
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14965.ts
-#EXTINF:0 type="stream" channelId="2840" name="BR: DISCOVERY TURBO" group="Brasil" tvg-country="br", DISCOVERY TURBO
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14966.ts
-#EXTINF:0 type="stream" channelId="2839" name="BR: DISCOVERY WORLD" group="Brasil" tvg-country="br", DISCOVERY WORLD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14967.ts
-#EXTINF:0 type="stream" channelId="19" name="BR: DISNEY CHANNEL" group="Brasil" tvg-country="br", DISNEY CHANNEL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14968.ts
-#EXTINF:0 type="stream" channelId="1197" name="BR: DISNEY JUNIOR" group="Brasil" tvg-country="br", DISNEY JUNIOR
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14969.ts
-#EXTINF:0 type="stream" channelId="1188" name="BR: E!" group="Brasil" tvg-country="br", E!
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14970.ts
-#EXTINF:0 type="stream" channelId="344" name="BR: ESPN 2" group="Brasil" logo="http://logos.iptv.wtf/deportes/espn2.png" tvg-country="br", ESPN 2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14971.ts
-#EXTINF:0 type="stream" channelId="4657" name="BR: ESPN EXTRA" group="Brasil" tvg-country="br", ESPN EXTRA
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14972.ts
-#EXTINF:0 type="stream" channelId="2540" name="BR: ESPN" group="Brasil" logo="http://logos.iptv.wtf/deportes/espn.png" tvg-country="br", ESPN
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14973.ts
-#EXTINF:0 type="stream" channelId="2633" name="BR: FISH TV" group="Brasil" tvg-country="br", FISH TV
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14974.ts
-#EXTINF:0 type="stream" channelId="1244" name="BR: FOOD NETWORK" group="Brasil" tvg-country="br", FOOD NETWORK
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14975.ts
-#EXTINF:0 type="stream" channelId="2607" name="BR: FOX PREMIUM 2" group="Brasil" tvg-country="br", FOX PREMIUM 2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14976.ts
-#EXTINF:0 type="stream" channelId="170" name="BR: FOX SPORTS 2" group="Brasil" tvg-country="br", FOX SPORTS 2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14977.ts
-#EXTINF:0 type="stream" channelId="1328" name="BR: FOX SPORTS" group="Brasil" tvg-country="br", FOX SPORTS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14978.ts
-#EXTINF:0 type="stream" channelId="1303" name="BR: FX" group="Brasil" tvg-country="br", FX
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14979.ts
-#EXTINF:0 type="stream" channelId="2432" name="BR: GLOBO" group="Brasil" tvg-country="br", GLOBO
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14980.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: GLOBO MINAS" group="Brasil" tvg-country="br", GLOBO MINAS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14981.ts
-#EXTINF:0 type="stream" channelId="2561" name="BR: GLOBO news" group="Brasil" tvg-country="br", GLOBO news
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14982.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: GLOBO NOW" group="Brasil" tvg-country="br", GLOBO NOW
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14983.ts
-#EXTINF:0 type="stream" channelId="2581" name="BR: GLOOB" group="Brasil" tvg-country="br", GLOOB
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14984.ts
-#EXTINF:0 type="stream" channelId="2582" name="BR: GNT" group="Brasil" tvg-country="br", GNT
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14985.ts
-#EXTINF:0 type="stream" channelId="1201" name="BR: H2" group="Brasil" tvg-country="br", H2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14986.ts
-#EXTINF:0 type="stream" channelId="935" name="BR: HBO 2" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbo2.png" tvg-country="br", HBO 2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14987.ts
-#EXTINF:0 type="stream" channelId="2584" name="BR: HBO FAMILY" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbofamily.pn..." tvg-country="br", HBO FAMILY
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14988.ts
-#EXTINF:0 type="stream" channelId="1330" name="BR: HBO" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbo.png" tvg-country="br", HBO
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14989.ts
-#EXTINF:0 type="stream" channelId="2725" name="BR: HBO MUNDI" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbomundi.png" tvg-country="br", HBO MUNDI
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14990.ts
-#EXTINF:0 type="stream" channelId="2585" name="BR: HBO PLUS" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hboplus.png" tvg-country="br", HBO PLUS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14991.ts
-#EXTINF:0 type="stream" channelId="361" name="BR: HBO POP" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbopop.png" tvg-country="br", HBO POP
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14992.ts
-#EXTINF:0 type="stream" channelId="2583" name="BR: HBO SIGNATURE" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hbosignature.png" tvg-country="br", HBO SIGNATURE
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14993.ts
-#EXTINF:0 type="stream" channelId="2587" name="BR: HBO XTREME" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/hboxtreme.pn..." tvg-country="br", HBO XTREME
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14994.ts
-#EXTINF:0 type="stream" channelId="1455" name="BR: HISTORY CHANNEL" group="Brasil" tvg-country="br", HISTORY CHANNEL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14995.ts
-#EXTINF:0 type="stream" channelId="1200" name="BR: LIFETIME" group="Brasil" tvg-country="br", LIFETIME
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14996.ts
-#EXTINF:0 type="stream" channelId="2580" name="BR: MAIS GLOBOSAT" group="Brasil" tvg-country="br", MAIS GLOBOSAT
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14997.ts
-#EXTINF:0 type="stream" channelId="2588" name="BR: MEGAPIX" group="Brasil" tvg-country="br", MEGAPIX
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14998.ts
-#EXTINF:0 type="stream" channelId="2590" name="BR: MULTISHOW" group="Brasil" tvg-country="br", MULTISHOW
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/14999.ts
-#EXTINF:0 type="stream" channelId="164" name="BR: NATGEO WILD" group="Brasil" tvg-country="br", NATGEO WILD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15000.ts
-#EXTINF:0 type="stream" channelId="56" name="BR: NatGeo" group="Brasil" tvg-country="br", NatGeo
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15001.ts
-#EXTINF:0 type="stream" channelId="322" name="BR: NICK JR" group="Brasil" tvg-country="br", NICK JR
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15002.ts
-#EXTINF:0 type="stream" channelId="41" name="BR: NICKELODEON" group="Brasil" tvg-country="br", NICKELODEON
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15003.ts
-#EXTINF:0 type="stream" channelId="2594" name="BR: OFF" group="Brasil" tvg-country="br", OFF
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15004.ts
-#EXTINF:0 type="stream" channelId="1719" name="BR: PARAMOUNT" group="Brasil" tvg-country="br", PARAMOUNT
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15005.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 2" group="Brasil" tvg-country="br", PREMIERE 2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15006.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 3" group="Brasil" tvg-country="br", PREMIERE 3
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15007.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 4" group="Brasil" tvg-country="br", PREMIERE 4
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15008.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 5" group="Brasil" tvg-country="br", PREMIERE 5
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15009.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 6" group="Brasil" tvg-country="br", PREMIERE 6
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15010.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE 7" group="Brasil" tvg-country="br", PREMIERE 7
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15011.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: PREMIERE CLUBES" group="Brasil" tvg-country="br", PREMIERE CLUBES
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15012.ts
-#EXTINF:0 type="stream" channelId="1031" name="BR: RECORD" group="Brasil" tvg-country="br", RECORD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15013.ts
-#EXTINF:0 type="stream" channelId="2456" name="BR: RECORD NEWS" group="Brasil" tvg-country="br", RECORD NEWS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15014.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: REDE TV" group="Brasil" tvg-country="br", REDE TV
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15015.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: SBT RJ HD" group="Brasil" tvg-country="br", SBT RJ HD
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15016.ts
-#EXTINF:0 type="stream" channelId="2433" name="BR: SBT" group="Brasil" tvg-country="br", SBT
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15017.ts
-#EXTINF:0 type="stream" channelId="2599" name="BR: SporTV" group="Brasil" tvg-country="br", SporTV
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15018.ts
-#EXTINF:0 type="stream" channelId="2601" name="BR: SporTV 3" group="Brasil" tvg-country="br", SporTV 3
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15019.ts
-#EXTINF:0 type="stream" channelId="2600" name="BR: SporTV 2" group="Brasil" tvg-country="br", SporTV 2
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15020.ts
-#EXTINF:0 type="stream" channelId="-1" name="BR: STAR LIFE" group="Brasil" tvg-country="br", STAR LIFE
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15021.ts
-#EXTINF:0 type="stream" channelId="73" name="BR: SYFY" group="Brasil" tvg-country="br", SYFY
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15022.ts
-#EXTINF:0 type="stream" channelId="3228" name="BR: TBS" group="Brasil" tvg-country="br", TBS
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15023.ts
-#EXTINF:0 type="stream" channelId="895" name="BR: TCM" group="Brasil" tvg-country="br", TCM
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15024.ts
-#EXTINF:0 type="stream" channelId="2603" name="BR: TELECINE ACTION" group="Brasil" tvg-country="br", TELECINE ACTION
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15025.ts
-#EXTINF:0 type="stream" channelId="2605" name="BR: TELECINE CULT" group="Brasil" tvg-country="br", TELECINE CULT
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15026.ts
-#EXTINF:0 type="stream" channelId="2606" name="BR: TELECINE FUN" group="Brasil" tvg-country="br", TELECINE FUN
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15027.ts
-#EXTINF:0 type="stream" channelId="2608" name="BR: TELECINE PIPOCA" group="Brasil" tvg-country="br", TELECINE PIPOCA
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15028.ts
-#EXTINF:0 type="stream" channelId="2610" name="BR: TELECINE PREMIUM" group="Brasil" tvg-country="br", TELECINE PREMIUM
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15029.ts
-#EXTINF:0 type="stream" channelId="2611" name="BR: TELECINE TOUCH" group="Brasil" tvg-country="br", TELECINE TOUCH
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15030.ts
-#EXTINF:0 type="stream" channelId="67" name="BR: TLC" group="Brasil" tvg-country="br", TLC
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15031.ts
-#EXTINF:0 type="stream" channelId="1052" name="BR: TNT" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/tnt.png" tvg-country="br", TNT
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15032.ts
-#EXTINF:0 type="stream" channelId="2686" name="BR: TNT SERIES" group="Brasil" logo="http://logos.iptv.wtf/entretenimiento/tntserieshd.png" tvg-country="br", TNT SERIES
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15033.ts
-#EXTINF:0 type="stream" channelId="2639" name="BR: TOONCAST" group="Brasil" tvg-country="br", TOONCAST
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15034.ts
-#EXTINF:0 type="stream" channelId="2578" name="BR: ESPN Brasil" group="Brasil" logo="http://logos.iptv.wtf/deportes/espn.png" tvg-country="br", ESPN Brasil
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15035.ts
-#EXTINF:0 type="stream" channelId="187" name="BR: UNIVERSAL" group="Brasil" tvg-country="br", UNIVERSAL
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15036.ts
-#EXTINF:0 type="stream" channelId="151" name="BR: VH1" group="Brasil" tvg-country="br", VH1
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15037.ts
-#EXTINF:0 type="stream" channelId="984" name="BR: VIVA" group="Brasil" tvg-country="br", VIVA
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15038.ts
-#EXTINF:0 type="stream" channelId="2557" name="BR: WARNER" group="Brasil" tvg-country="br", WARNER
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15039.ts
-#EXTINF:0 type="stream" channelId="2908" name="BR: ZOOMOO" group="Brasil" tvg-country="br", ZOOMOO
-http://live.stablechannels.tv:80/live/pimpchwf/y6Fcw3q66W/15040.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/nick_jrp.png" group-title="ZAPPING CHILE",NICK JR⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54428
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/disneyjr.png" group-title="ZAPPING CHILE",DISNEY JR⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54423
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/discoverykidsp.png" group-title="ZAPPING CHILE",DISCOVERY KIDS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54429
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/yxdZpxXD/nickelodeon.png" group-title="ZAPPING CHILE",NICKELODEON⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54420
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/cartoonnetworkp.png" group-title="ZAPPING CHILE",CARTOON NETWORK⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54424
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/cartoonitob.png" group-title="ZAPPING CHILE",CARTOONITO⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54426
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/disneychannelp.png" group-title="ZAPPING CHILE",DISNEY CHANNEL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54422
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/8zBzWDM9/dreamworks.png" group-title="ZAPPING CHILE",DREAMWORKS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54436
+#EXTINF:-1 tvg-id="" tvg-name="ETC TV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/etcp.png" group-title="ZAPPING CHILE",ETC TV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54434
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/babytvp.png" group-title="ZAPPING CHILE",BABY TV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54430
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/tooncastp.png" group-title="ZAPPING CHILE",TOONCAST⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54425
+#EXTINF:-1 tvg-id="" tvg-name="NTV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/ntv.png" group-title="ZAPPING CHILE",NTV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54433
+#EXTINF:-1 tvg-id="" tvg-name="TV+⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/tvmasp.png" group-title="ZAPPING CHILE",TV+⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54367
+#EXTINF:-1 tvg-id="" tvg-name="LA RED⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/laredp.png" group-title="ZAPPING CHILE",LA RED⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54364
+#EXTINF:-1 tvg-id="" tvg-name="TVN⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/tvnp.png" group-title="ZAPPING CHILE",TVN⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54370
+#EXTINF:-1 tvg-id="" tvg-name="MEGA⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/megap.png" group-title="ZAPPING CHILE",MEGA⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54373
+#EXTINF:-1 tvg-id="" tvg-name="CHV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/chvp.png" group-title="ZAPPING CHILE",CHV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54378
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/0Ns8VHCK/granhermano.png" group-title="ZAPPING CHILE",GRAN HERMANO⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54572
+#EXTINF:-1 tvg-id="" tvg-name="13⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/13p.png" group-title="ZAPPING CHILE",13⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54380
+#EXTINF:-1 tvg-id="" tvg-name="13C⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/13cp.png" group-title="ZAPPING CHILE",13C⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54384
+#EXTINF:-1 tvg-id="" tvg-name="MEGA PLUS⁽ᴴᴰ⁾" tvg-logo="https://puntoz.xyz/LOGOS/megaplusp.png" group-title="ZAPPING CHILE",MEGA PLUS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54362
+#EXTINF:-1 tvg-id="" tvg-name="REC«13⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/recp.png" group-title="ZAPPING CHILE",REC«13⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54386
+#EXTINF:-1 tvg-id="" tvg-name="UCV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/ucvp.png" group-title="ZAPPING CHILE",UCV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54365
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/24horasp.png" group-title="ZAPPING CHILE",24 HORAS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54371
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/cnnchilep.png" group-title="ZAPPING CHILE",CNN CHILE⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54397
+#EXTINF:-1 tvg-id="" tvg-name="T13⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/t13p.png" group-title="ZAPPING CHILE",T13⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54396
+#EXTINF:-1 tvg-id="" tvg-name="CNN EN ESPAÑOL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/cnnespanolp.png" group-title="ZAPPING CHILE",CNN EN ESPAÑOL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54399
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/ZnHWrd99/cnni.png" group-title="ZAPPING CHILE",CNN INTERNACIONAL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54437
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEW⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/j2LpXV2z/bbcnews.png" group-title="ZAPPING CHILE",BBC WORLD NEW⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54438
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/WpZLhVRv/fr24es.png" group-title="ZAPPING CHILE",FRANCE 24⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54439
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/Antena_3b.png" group-title="ZAPPING CHILE",ANTENA 3⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54525
+#EXTINF:-1 tvg-id="" tvg-name="A&E⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/ayep.png" group-title="ZAPPING CHILE",A&E⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54447
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/a3seriesp.png" group-title="ZAPPING CHILE",A3SERIES⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54478
+#EXTINF:-1 tvg-id="" tvg-name="WARNER⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/warnerp.png" group-title="ZAPPING CHILE",WARNER⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54452
+#EXTINF:-1 tvg-id="" tvg-name="SONY⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/sonyp.png" group-title="ZAPPING CHILE",SONY⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54451
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/star.channelp.png" group-title="ZAPPING CHILE",STAR CHANNEL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54441
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tntseriesp.png" group-title="ZAPPING CHILE",TNT SERIES⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54450
+#EXTINF:-1 tvg-id="" tvg-name="FX⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/fxhdp.png" group-title="ZAPPING CHILE",FX⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54444
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/65RvjyDm/comedy.png" group-title="ZAPPING CHILE",COMEDY CENTRAL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54440
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/universalp.png" group-title="ZAPPING CHILE",UNIVERSAL TV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54462
+#EXTINF:-1 tvg-id="" tvg-name="SYFY⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/syfyp.png" group-title="ZAPPING CHILE",SYFY⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54446
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INTERNACIONAL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/telemundoinp.png" group-title="ZAPPING CHILE",TELEMUNDO INTERNACIONAL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54523
+#EXTINF:-1 tvg-id="" tvg-name="AXN⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/axnp.png" group-title="ZAPPING CHILE",AXN⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54448
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/studiouniversalp.png" group-title="ZAPPING CHILE",STUDIO UNIVERSAL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54461
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/XJRwqFR9/cinemax.png" group-title="ZAPPING CHILE",CINEMAX⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54366
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/cinecanalp.png" group-title="ZAPPING CHILE",CINECANAL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54468
+#EXTINF:-1 tvg-id="" tvg-name="TNT⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tntp.png" group-title="ZAPPING CHILE",TNT⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54449
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/paramountp.png" group-title="ZAPPING CHILE",PARAMOUNT CHANNEL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54472
+#EXTINF:-1 tvg-id="" tvg-name="AMC⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/amcp.png" group-title="ZAPPING CHILE",AMC⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54469
+#EXTINF:-1 tvg-id="" tvg-name="SPACE⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/spacep.png" group-title="ZAPPING CHILE",SPACE⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54470
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/Vs7JKXGg/europaeuropa.png" group-title="ZAPPING CHILE",EUROPA EUROPA⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54432
+#EXTINF:-1 tvg-id="" tvg-name="TCM⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tcmp.png" group-title="ZAPPING CHILE",TCM⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54476
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/historyp.png" group-title="ZAPPING CHILE",HISTORY⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54481
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/h2p.png" group-title="ZAPPING CHILE",HISTORY 2⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54482
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/discoveryp.png" group-title="ZAPPING CHILE",DISCOVERY CHANNEL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54486
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/natgeop.png" group-title="ZAPPING CHILE",NATGEO⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54483
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.turbop.png" group-title="ZAPPING CHILE",DISCOVERY TURBO⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54494
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.investigationp.png" group-title="ZAPPING CHILE",DISCOVERY ID⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54492
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.tlc.png" group-title="ZAPPING CHILE",DISCOVERY TLC⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54491
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS⁽ᴴᴰ⁾" tvg-logo="https://i.postimg.cc/LXQZgPGx/filmandarts.png" group-title="ZAPPING CHILE",FILM & ARTS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54516
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/animalplanetp.png" group-title="ZAPPING CHILE",ANIMAL PLANET⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54485
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.worldp.png" group-title="ZAPPING CHILE",DISCOVERY WORLD⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54489
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.science.png" group-title="ZAPPING CHILE",DISCOVERY SCIENCE⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54493
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.theaterp.png" group-title="ZAPPING CHILE",DISCOVERY THEATER⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54490
+#EXTINF:-1 tvg-id="" tvg-name="E! ENTERNAINMENT⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/eentertainmnentp.png" group-title="ZAPPING CHILE",E! ENTERNAINMENT⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54508
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/discovery.homeandhealthp.png" group-title="ZAPPING CHILE",DISCOVERY H&H⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54487
+#EXTINF:-1 tvg-id="" tvg-name="MASCHIC⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/maschicp.png" group-title="ZAPPING CHILE",MASCHIC⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54496
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/elgourmetp.png" group-title="ZAPPING CHILE",EL GOURMET⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54498
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/directvsportschileb.png" group-title="ZAPPING CHILE",DIRECTV SPORTS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54409
+#EXTINF:-1 tvg-id="" tvg-name="ESPN⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/espnp.png" group-title="ZAPPING CHILE",ESPN⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54413
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/espn2p.png" group-title="ZAPPING CHILE",ESPN 2⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54414
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/espn3p.png" group-title="ZAPPING CHILE",ESPN 3⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54415
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/espn.extrap.png" group-title="ZAPPING CHILE",ESPN EXTRA⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54417
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/ESPN4B.png" group-title="ZAPPING CHILE",ESPN 4⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54416
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/tntsports3b.png" group-title="ZAPPING CHILE",TNT SPORTS 3⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54406
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tntsports2b.png" group-title="ZAPPING CHILE",TNT SPORTS 2⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54405
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/tntsportshdb.png" group-title="ZAPPING CHILE",TNT SPORTS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54404
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/tntsportsstadiob.png" group-title="ZAPPING CHILE",ESTADIO TNT SPORTS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54403
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/foxsports1p.png" group-title="ZAPPING CHILE",FOX SPORTS 1⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54410
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/foxsports2p.png" group-title="ZAPPING CHILE",FOX SPORTS 2⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54411
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/foxsports3p.png" group-title="ZAPPING CHILE",FOX SPORTS 3⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54412
+#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/cdopremiump.png" group-title="ZAPPING CHILE",CDO PREMIUM⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54408
+#EXTINF:-1 tvg-id="" tvg-name="HTV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/htvp.png" group-title="ZAPPING CHILE",HTV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54503
+#EXTINF:-1 tvg-id="" tvg-name="HBO⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/hbocosubB.png" group-title="ZAPPING CHILE",HBO⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54453
+#EXTINF:-1 tvg-id="" tvg-name="HBO2⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/hbo2b.png" group-title="ZAPPING CHILE",HBO2⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54455
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/hbofamilyb.png" group-title="ZAPPING CHILE",HBO FAMILY⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54458
+#EXTINF:-1 tvg-id="" tvg-name="HBO+⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/HBOMASB.png" group-title="ZAPPING CHILE",HBO+⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54454
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/hbosignatureb.png" group-title="ZAPPING CHILE",HBO SIGNATURE⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54457
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/hbopopb.png" group-title="ZAPPING CHILE",HBO POP⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54460
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/hboxtreamb.png" group-title="ZAPPING CHILE",HBO XTREME⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54459
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/universalpremierB.png" group-title="ZAPPING CHILE",UNIVERSAL PREMIERE⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54463
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/universalcinamaB.png" group-title="ZAPPING CHILE",UNIVERSAL CINEMA⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54464
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL COMEDY⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/universalcomedyB.png" group-title="ZAPPING CHILE",UNIVERSAL COMEDY⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54465
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/universalcrimeB.png" group-title="ZAPPING CHILE",UNIVERSAL CRIME⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54466
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/Universal_RealityB.png" group-title="ZAPPING CHILE",UNIVERSAL REALITY⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54467
+#EXTINF:-1 tvg-id="" tvg-name="RT EN ESPAÑOL⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/rtenespanolp.png" group-title="ZAPPING CHILE",RT EN ESPAÑOL⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54400
+#EXTINF:-1 tvg-id="" tvg-name="TELETRAK⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/teletrakb.png" group-title="ZAPPING CHILE",TELETRAK⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54419
+#EXTINF:-1 tvg-id="" tvg-name="CAMARA DE DIPUTADOS⁽ᴴᴰ⁾" tvg-logo="http://puntoz.net/LOGOS/camarap.png" group-title="ZAPPING CHILE",CAMARA DE DIPUTADOS⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54401
+#EXTINF:-1 tvg-id="" tvg-name="BIOBIO TV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/biobiotvp.png" group-title="ZAPPING CHILE",BIOBIO TV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54398
+#EXTINF:-1 tvg-id="" tvg-name="CAROLINA TV⁽ᴴᴰ⁾" tvg-logo="http://puntoz.xyz/LOGOS/carolinatvB.png" group-title="ZAPPING CHILE",CAROLINA TV⁽ᴴᴰ⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/54504
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS ESTADIOᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="FUTBOL CHILE",CL: TNT SPORTS ESTADIOᴴᴰ ⁽ᵒᵖ¹⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/86
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS ESTADIOᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="FUTBOL CHILE",CL: TNT SPORTS ESTADIOᴴᴰ ⁽ᵒᵖ²⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/87
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS ESTADIOᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="FUTBOL CHILE",CL: TNT SPORTS ESTADIOᴴᴰ ⁽ᵒᵖ³⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/88
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL CHILE",CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ¹⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/89
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL CHILE",CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ²⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/90
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL CHILE",CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ³⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/91
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ⁴⁾" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL CHILE",CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ⁴⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/92
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ⁵⁾" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL CHILE",CL: TNT SPORTSᴴᴰ ⁽ᵒᵖ⁵⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/93
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 2ᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/02PkGY96/TNT-Sports-2-2021.png" group-title="FUTBOL CHILE",CL: TNT SPORTS 2ᴴᴰ ⁽ᵒᵖ¹⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/94
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 2ᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.postimg.cc/02PkGY96/TNT-Sports-2-2021.png" group-title="FUTBOL CHILE",CL: TNT SPORTS 2ᴴᴰ ⁽ᵒᵖ²⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/95
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 2ᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.postimg.cc/02PkGY96/TNT-Sports-2-2021.png" group-title="FUTBOL CHILE",CL: TNT SPORTS 2ᴴᴰ ⁽ᵒᵖ³⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/96
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 3ᴴᴰ ⁽ᵒᵖ¹⁾" tvg-logo="https://i.postimg.cc/k4wmfZJB/TNT-Sports-3-2021.png" group-title="FUTBOL CHILE",CL: TNT SPORTS 3ᴴᴰ ⁽ᵒᵖ¹⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/97
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 3ᴴᴰ ⁽ᵒᵖ²⁾" tvg-logo="https://i.postimg.cc/k4wmfZJB/TNT-Sports-3-2021.png" group-title="FUTBOL CHILE",CL: TNT SPORTS 3ᴴᴰ ⁽ᵒᵖ²⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/98
+#EXTINF:-1 tvg-id="" tvg-name="CL: TNT SPORTS 3ᴴᴰ ⁽ᵒᵖ³⁾" tvg-logo="https://i.postimg.cc/k4wmfZJB/TNT-Sports-3-2021.png" group-title="FUTBOL CHILE",CL: TNT SPORTS 3ᴴᴰ ⁽ᵒᵖ³⁾
+http://premiumultra.xyz:8080/hacquuswst/yrqndhjmgj/99
